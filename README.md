@@ -1,4 +1,4 @@
-### Hi there 👋
+### NØHOT Studio 👋
 
 <!--
 **n0hot/n0hot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
